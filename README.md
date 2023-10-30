@@ -31,6 +31,9 @@ and to run the client, we need to go to client folder and run
 npm run dev
 ```
 
+# PS
+In order for this to work, you need to update the .env on the client folder, using the google credentials that you can generate, those credentials are not available.
+
 # To use the app
 
 After that we are running both services, we can go to the [APP](http://localhost:3000) <--- Client
